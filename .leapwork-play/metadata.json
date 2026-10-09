@@ -1,0 +1,516 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-09T11:52:54.282Z",
+  "repo": {
+    "connectorId": 10,
+    "repoSlug": "himanshijindgar/play-test-1",
+    "baseBranch": "main"
+  },
+  "team": {
+    "assetId": 14187,
+    "displayId": "TM-1",
+    "name": "test"
+  },
+  "tree": [
+    {
+      "assetId": 14229,
+      "displayId": "FD-15",
+      "name": "Data Creation",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 14233,
+          "displayId": "TC-28",
+          "name": "2 - Team deleation",
+          "kind": "test-case",
+          "repoPath": "Data Creation/TC-28-2-Team-deleation.spec.ts"
+        },
+        {
+          "assetId": 14230,
+          "displayId": "TC-26",
+          "name": "3- Run list creation",
+          "kind": "test-case",
+          "repoPath": "Data Creation/TC-26-3-Run-list-creation.spec.ts"
+        },
+        {
+          "assetId": 14235,
+          "displayId": "TC-30",
+          "name": "Test Case creation",
+          "kind": "test-case",
+          "repoPath": "Data Creation/TC-30-Test-Case-creation.spec.ts"
+        },
+        {
+          "assetId": 14236,
+          "displayId": "TC-31",
+          "name": "UpdatedTeamDeletion",
+          "kind": "test-case",
+          "repoPath": "Data Creation/TC-31-UpdatedTeamDeletion.spec.ts"
+        }
+      ]
+    },
+    {
+      "assetId": 14231,
+      "displayId": "FD-16",
+      "name": "ReusableFunctions",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 14232,
+          "displayId": "TC-27",
+          "name": "LoginFlow",
+          "kind": "test-case",
+          "repoPath": "ReusableFunctions/TC-27-LoginFlow.spec.ts"
+        },
+        {
+          "assetId": 14237,
+          "displayId": "TC-32",
+          "name": "Logout",
+          "kind": "test-case",
+          "repoPath": "ReusableFunctions/TC-32-Logout.spec.ts"
+        }
+      ]
+    },
+    {
+      "assetId": 14227,
+      "displayId": "FD-13",
+      "name": "TC-116 - -4. Verify the run log page features of run list page (1)",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 14259,
+          "displayId": "TC-44",
+          "name": "-4. Verify the run log page features of run list page - Copy - Copy",
+          "kind": "test-case",
+          "repoPath": "TC-116 - -4. Verify the run log page features of run list page (1)/TC-44-4.-Verify-the-run-log-page-features-of-run-list-page-Copy-Copy.spec.ts"
+        },
+        {
+          "assetId": 14254,
+          "displayId": "TC-39",
+          "name": "-4. Verify the run log page features of run list page - Copy",
+          "kind": "test-case",
+          "repoPath": "TC-116 - -4. Verify the run log page features of run list page (1)/TC-39-4.-Verify-the-run-log-page-features-of-run-list-page-Copy.spec.ts"
+        }
+      ]
+    },
+    {
+      "assetId": 14226,
+      "displayId": "FD-12",
+      "name": "TC-118 - -6. Verify the refresh button report page of run list (1)",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 14238,
+          "displayId": "TC-33",
+          "name": "-6. Verify the refresh button report page of run list",
+          "kind": "test-case",
+          "repoPath": "TC-118 - -6. Verify the refresh button report page of run list (1)/TC-33-6.-Verify-the-refresh-button-report-page-of-run-list.spec.ts"
+        }
+      ]
+    },
+    {
+      "assetId": 14228,
+      "displayId": "FD-14",
+      "name": "TC-81 - -2. Verify the Run now button on selection page of run list page (2)",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 14240,
+          "displayId": "TC-35",
+          "name": "-2. Verify the Run now button on selection page of run list page",
+          "kind": "test-case",
+          "repoPath": "TC-81 - -2. Verify the Run now button on selection page of run list page (2)/TC-35-2.-Verify-the-Run-now-button-on-selection-page-of-run-list-page.spec.ts"
+        }
+      ]
+    },
+    {
+      "assetId": 14755,
+      "displayId": "FD-18",
+      "name": "Utilities",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 14758,
+          "displayId": "TC-46",
+          "name": "Add company",
+          "kind": "test-case",
+          "repoPath": "Utilities/TC-46-Add-company.spec.ts"
+        },
+        {
+          "assetId": 14759,
+          "displayId": "TC-47",
+          "name": "Microsoft Login",
+          "kind": "test-case",
+          "repoPath": "Utilities/TC-47-Microsoft-Login.spec.ts"
+        },
+        {
+          "assetId": 14756,
+          "displayId": "TS-3",
+          "name": "random-team",
+          "kind": "typescript",
+          "repoPath": "Utilities/TS-3-random-team.ts"
+        },
+        {
+          "assetId": 14757,
+          "displayId": "TC-45",
+          "name": "SkipOnboardingTour",
+          "kind": "test-case",
+          "repoPath": "Utilities/TC-45-SkipOnboardingTour.spec.ts"
+        }
+      ]
+    },
+    {
+      "assetId": 14770,
+      "displayId": "TC-51",
+      "name": "Block confirmation when required traveller data is missing",
+      "kind": "test-case",
+      "repoPath": "TC-51-Block-confirmation-when-required-traveller-data-is-missing.spec.ts"
+    },
+    {
+      "assetId": 14247,
+      "displayId": "TC-37",
+      "name": "empty TC - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-37-empty-TC-Copy.spec.ts"
+    },
+    {
+      "assetId": 14217,
+      "displayId": "TC-20",
+      "name": "leap import",
+      "kind": "test-case",
+      "repoPath": "TC-20-leap-import.spec.ts"
+    },
+    {
+      "assetId": 14771,
+      "displayId": "TC-52",
+      "name": "leap n leash - recording",
+      "kind": "test-case",
+      "repoPath": "TC-52-leap-n-leash-recording.spec.ts"
+    },
+    {
+      "assetId": 14258,
+      "displayId": "TC-43",
+      "name": "leapnleash - Copy - Copy - Copy - Copy - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-43-leapnleash-Copy-Copy-Copy-Copy-Copy.spec.ts"
+    },
+    {
+      "assetId": 14257,
+      "displayId": "TC-42",
+      "name": "leapnleash - Copy - Copy - Copy - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-42-leapnleash-Copy-Copy-Copy-Copy.spec.ts"
+    },
+    {
+      "assetId": 14256,
+      "displayId": "TC-41",
+      "name": "leapnleash - Copy - Copy - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-41-leapnleash-Copy-Copy-Copy.spec.ts"
+    },
+    {
+      "assetId": 14255,
+      "displayId": "TC-40",
+      "name": "leapnleash - Copy - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-40-leapnleash-Copy-Copy.spec.ts"
+    },
+    {
+      "assetId": 14253,
+      "displayId": "TC-38",
+      "name": "leapnleash - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-38-leapnleash-Copy.spec.ts"
+    },
+    {
+      "assetId": 14245,
+      "displayId": "TC-36",
+      "name": "leapnleash",
+      "kind": "test-case",
+      "repoPath": "TC-36-leapnleash.spec.ts"
+    },
+    {
+      "assetId": 14218,
+      "displayId": "TC-21",
+      "name": "leash import",
+      "kind": "test-case",
+      "repoPath": "TC-21-leash-import.spec.ts"
+    },
+    {
+      "assetId": 14244,
+      "displayId": "TS-2",
+      "name": "shape-of-you-lyrics",
+      "kind": "typescript",
+      "repoPath": "TS-2-shape-of-you-lyrics.ts"
+    },
+    {
+      "assetId": 14760,
+      "displayId": "TC-48",
+      "name": "Timeout",
+      "kind": "test-case",
+      "repoPath": "TC-48-Timeout.spec.ts"
+    },
+    {
+      "assetId": 14768,
+      "displayId": "TC-49",
+      "name": "Timeout",
+      "kind": "test-case",
+      "repoPath": "TC-49-Timeout.spec.ts"
+    },
+    {
+      "assetId": 14769,
+      "displayId": "TC-50",
+      "name": "Timeout",
+      "kind": "test-case",
+      "repoPath": "TC-50-Timeout.spec.ts"
+    },
+    {
+      "assetId": 14772,
+      "displayId": "TS-4",
+      "name": "variable",
+      "kind": "typescript",
+      "repoPath": "TS-4-variable.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 14230,
+      "assetKind": "test-case",
+      "displayId": "TC-26",
+      "name": "3- Run list creation",
+      "repoPath": "Data Creation/TC-26-3-Run-list-creation.spec.ts",
+      "parentAssetId": 14229
+    },
+    {
+      "assetId": 14233,
+      "assetKind": "test-case",
+      "displayId": "TC-28",
+      "name": "2 - Team deleation",
+      "repoPath": "Data Creation/TC-28-2-Team-deleation.spec.ts",
+      "parentAssetId": 14229
+    },
+    {
+      "assetId": 14235,
+      "assetKind": "test-case",
+      "displayId": "TC-30",
+      "name": "Test Case creation",
+      "repoPath": "Data Creation/TC-30-Test-Case-creation.spec.ts",
+      "parentAssetId": 14229
+    },
+    {
+      "assetId": 14236,
+      "assetKind": "test-case",
+      "displayId": "TC-31",
+      "name": "UpdatedTeamDeletion",
+      "repoPath": "Data Creation/TC-31-UpdatedTeamDeletion.spec.ts",
+      "parentAssetId": 14229
+    },
+    {
+      "assetId": 14232,
+      "assetKind": "test-case",
+      "displayId": "TC-27",
+      "name": "LoginFlow",
+      "repoPath": "ReusableFunctions/TC-27-LoginFlow.spec.ts",
+      "parentAssetId": 14231
+    },
+    {
+      "assetId": 14237,
+      "assetKind": "test-case",
+      "displayId": "TC-32",
+      "name": "Logout",
+      "repoPath": "ReusableFunctions/TC-32-Logout.spec.ts",
+      "parentAssetId": 14231
+    },
+    {
+      "assetId": 14254,
+      "assetKind": "test-case",
+      "displayId": "TC-39",
+      "name": "-4. Verify the run log page features of run list page - Copy",
+      "repoPath": "TC-116 - -4. Verify the run log page features of run list page (1)/TC-39-4.-Verify-the-run-log-page-features-of-run-list-page-Copy.spec.ts",
+      "parentAssetId": 14227
+    },
+    {
+      "assetId": 14259,
+      "assetKind": "test-case",
+      "displayId": "TC-44",
+      "name": "-4. Verify the run log page features of run list page - Copy - Copy",
+      "repoPath": "TC-116 - -4. Verify the run log page features of run list page (1)/TC-44-4.-Verify-the-run-log-page-features-of-run-list-page-Copy-Copy.spec.ts",
+      "parentAssetId": 14227
+    },
+    {
+      "assetId": 14238,
+      "assetKind": "test-case",
+      "displayId": "TC-33",
+      "name": "-6. Verify the refresh button report page of run list",
+      "repoPath": "TC-118 - -6. Verify the refresh button report page of run list (1)/TC-33-6.-Verify-the-refresh-button-report-page-of-run-list.spec.ts",
+      "parentAssetId": 14226
+    },
+    {
+      "assetId": 14217,
+      "assetKind": "test-case",
+      "displayId": "TC-20",
+      "name": "leap import",
+      "repoPath": "TC-20-leap-import.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14218,
+      "assetKind": "test-case",
+      "displayId": "TC-21",
+      "name": "leash import",
+      "repoPath": "TC-21-leash-import.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14245,
+      "assetKind": "test-case",
+      "displayId": "TC-36",
+      "name": "leapnleash",
+      "repoPath": "TC-36-leapnleash.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14247,
+      "assetKind": "test-case",
+      "displayId": "TC-37",
+      "name": "empty TC - Copy",
+      "repoPath": "TC-37-empty-TC-Copy.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14253,
+      "assetKind": "test-case",
+      "displayId": "TC-38",
+      "name": "leapnleash - Copy",
+      "repoPath": "TC-38-leapnleash-Copy.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14255,
+      "assetKind": "test-case",
+      "displayId": "TC-40",
+      "name": "leapnleash - Copy - Copy",
+      "repoPath": "TC-40-leapnleash-Copy-Copy.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14256,
+      "assetKind": "test-case",
+      "displayId": "TC-41",
+      "name": "leapnleash - Copy - Copy - Copy",
+      "repoPath": "TC-41-leapnleash-Copy-Copy-Copy.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14257,
+      "assetKind": "test-case",
+      "displayId": "TC-42",
+      "name": "leapnleash - Copy - Copy - Copy - Copy",
+      "repoPath": "TC-42-leapnleash-Copy-Copy-Copy-Copy.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14258,
+      "assetKind": "test-case",
+      "displayId": "TC-43",
+      "name": "leapnleash - Copy - Copy - Copy - Copy - Copy",
+      "repoPath": "TC-43-leapnleash-Copy-Copy-Copy-Copy-Copy.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14760,
+      "assetKind": "test-case",
+      "displayId": "TC-48",
+      "name": "Timeout",
+      "repoPath": "TC-48-Timeout.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14768,
+      "assetKind": "test-case",
+      "displayId": "TC-49",
+      "name": "Timeout",
+      "repoPath": "TC-49-Timeout.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14769,
+      "assetKind": "test-case",
+      "displayId": "TC-50",
+      "name": "Timeout",
+      "repoPath": "TC-50-Timeout.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14770,
+      "assetKind": "test-case",
+      "displayId": "TC-51",
+      "name": "Block confirmation when required traveller data is missing",
+      "repoPath": "TC-51-Block-confirmation-when-required-traveller-data-is-missing.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14771,
+      "assetKind": "test-case",
+      "displayId": "TC-52",
+      "name": "leap n leash - recording",
+      "repoPath": "TC-52-leap-n-leash-recording.spec.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14240,
+      "assetKind": "test-case",
+      "displayId": "TC-35",
+      "name": "-2. Verify the Run now button on selection page of run list page",
+      "repoPath": "TC-81 - -2. Verify the Run now button on selection page of run list page (2)/TC-35-2.-Verify-the-Run-now-button-on-selection-page-of-run-list-page.spec.ts",
+      "parentAssetId": 14228
+    },
+    {
+      "assetId": 14244,
+      "assetKind": "typescript",
+      "displayId": "TS-2",
+      "name": "shape-of-you-lyrics",
+      "repoPath": "TS-2-shape-of-you-lyrics.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14772,
+      "assetKind": "typescript",
+      "displayId": "TS-4",
+      "name": "variable",
+      "repoPath": "TS-4-variable.ts",
+      "parentAssetId": 14187
+    },
+    {
+      "assetId": 14757,
+      "assetKind": "test-case",
+      "displayId": "TC-45",
+      "name": "SkipOnboardingTour",
+      "repoPath": "Utilities/TC-45-SkipOnboardingTour.spec.ts",
+      "parentAssetId": 14755
+    },
+    {
+      "assetId": 14758,
+      "assetKind": "test-case",
+      "displayId": "TC-46",
+      "name": "Add company",
+      "repoPath": "Utilities/TC-46-Add-company.spec.ts",
+      "parentAssetId": 14755
+    },
+    {
+      "assetId": 14759,
+      "assetKind": "test-case",
+      "displayId": "TC-47",
+      "name": "Microsoft Login",
+      "repoPath": "Utilities/TC-47-Microsoft-Login.spec.ts",
+      "parentAssetId": 14755
+    },
+    {
+      "assetId": 14756,
+      "assetKind": "typescript",
+      "displayId": "TS-3",
+      "name": "random-team",
+      "repoPath": "Utilities/TS-3-random-team.ts",
+      "parentAssetId": 14755
+    }
+  ]
+}
